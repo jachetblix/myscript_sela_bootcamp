@@ -1,0 +1,4 @@
+Hi! My name is Artyom Egorov! 
+I am finishing Computer Science Bachelor Degree in HIT
+HIt is most likely as MIT(Joke)
+You asked from to find some string in text so it will be next row
